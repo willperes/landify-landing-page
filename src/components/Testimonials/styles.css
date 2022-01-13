@@ -1,0 +1,95 @@
+.testimonials {
+  height: 100%;
+  background-color: #d5fafc;
+}
+
+.customers {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding-top: 7.5rem;
+  padding-bottom: 3rem;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+
+.heading-quote {
+  position: absolute;
+  top: 116rem;
+  left: 21rem;
+}
+
+.heading {
+  margin-left: 8rem;
+}
+
+.heading p {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
+
+.left-column {
+  margin-left: 3rem;
+  margin-right: 2rem;
+}
+
+.left-column ul {
+  float: right;
+}
+
+.right-column ul {
+  margin-top: 3rem;
+}
+
+.right-column ul li {
+  margin-bottom: 2rem;
+}
+
+.customers ul li {
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1);
+  list-style: none;
+}
+
+.customers ul li p {
+  margin-right: 2rem;
+  margin-left: 4rem;
+}
+
+.customers ul li blockquote p {
+  line-height: 1.8rem;
+  margin-right: 2rem;
+  margin-left: 4rem;
+}
+
+.customers ul li h5 {
+  font-size: 1.2rem;
+  margin-right: 2rem;
+  margin-left: 4rem;
+  margin-top: 1.75rem;
+}
+
+.airbnb-logo, .hubspot-logo, .bookmyshow-logo {
+  width: auto;
+  height: 6.25rem;
+  padding: 2rem;
+}
+
+.hubspot {
+  max-width: 21.875rem;
+}
+
+.airbnb {
+  max-width: 27.8125rem;
+}
+
+.book-my-show {
+  max-width: 21.875rem;
+}
+
+.job-position {
+  margin-top: .2rem;
+  padding-bottom: 2rem;
+  font-size: .8rem;
+  color: #969BAB;
+}
