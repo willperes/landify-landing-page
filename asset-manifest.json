@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/landify-landing-page/static/css/main.3d402174.css",
+    "main.js": "/landify-landing-page/static/js/main.9733f09d.js",
+    "static/media/cover-image.png": "/landify-landing-page/static/media/cover-image.2d0d4bf86e7f1394bcf0.png",
+    "static/media/phone-mockup.svg": "/landify-landing-page/static/media/phone-mockup.571554d57348e8245f4d388b6d678fe7.svg",
+    "static/media/phone-mockup-1.png": "/landify-landing-page/static/media/phone-mockup-1.9936c3573384f2339960.png",
+    "static/media/phone-mockup.png": "/landify-landing-page/static/media/phone-mockup.72e0b5b024d7409c0255.png",
+    "static/media/phone-mockup-2.png": "/landify-landing-page/static/media/phone-mockup-2.85845a0beecbf88aa923.png",
+    "static/media/app-store-badge.svg": "/landify-landing-page/static/media/app-store-badge.e12af9573eb1bda8fc845103ea53d182.svg",
+    "static/media/google-play-badge.svg": "/landify-landing-page/static/media/google-play-badge.d6fa3f423cd95f36908703badfd34ac2.svg",
+    "static/media/bookmyshow-logo.svg": "/landify-landing-page/static/media/bookmyshow-logo.f23d86d10160a743aa6898dd1e56b540.svg",
+    "static/media/airbnb-logo.svg": "/landify-landing-page/static/media/airbnb-logo.79256750437e30dd749e8b14423edac0.svg",
+    "static/media/microsoft-logo.svg": "/landify-landing-page/static/media/microsoft-logo.b3285a03c16ffa39a421253ad2d981b5.svg",
+    "static/media/walmart-logo.svg": "/landify-landing-page/static/media/walmart-logo.412d990ee33690d6f06ba7e03fdc6a32.svg",
+    "static/media/hubspot-logo.svg": "/landify-landing-page/static/media/hubspot-logo.4fe8346a0eada1330b20299ea73f849e.svg",
+    "static/media/google-logo.svg": "/landify-landing-page/static/media/google-logo.f2ecc31b00b2b489479829bf9c02273c.svg",
+    "static/media/06.svg": "/landify-landing-page/static/media/06.2979ed762f0d2ca8069a2cb0a2bd64a8.svg",
+    "static/media/landify-logo.svg": "/landify-landing-page/static/media/landify-logo.120ae864a0e509896d4118bdc16fdb67.svg",
+    "static/media/05.svg": "/landify-landing-page/static/media/05.c4b23f963b55d4071b69b96fb395f8ef.svg",
+    "static/media/fedex-logo.svg": "/landify-landing-page/static/media/fedex-logo.510200f1f3cf7a9af525de98fb910cb3.svg",
+    "static/media/hero-bg.svg": "/landify-landing-page/static/media/hero-bg.e43c792bd78cc21435bb.svg",
+    "static/media/04.svg": "/landify-landing-page/static/media/04.29fb4bb48a41687a86ef8069b9308efb.svg",
+    "static/media/07.svg": "/landify-landing-page/static/media/07.9a67b548107fa76f0095cc63fac79945.svg",
+    "index.html": "/landify-landing-page/index.html",
+    "static/media/03.svg": "/landify-landing-page/static/media/03.5993ff26a3e711645077cc84bcdbff28.svg",
+    "static/media/logo.svg": "/landify-landing-page/static/media/logo.427e7a5b9c7b37787b729fabc54763c1.svg",
+    "static/media/01.svg": "/landify-landing-page/static/media/01.c0bf92fa84fbdb5b48ddec3588f5013a.svg",
+    "static/media/divider.svg": "/landify-landing-page/static/media/divider.18b5d7f69e4ebc1dc36c9e2890cef51f.svg",
+    "static/media/02.svg": "/landify-landing-page/static/media/02.03f448ef265022b03d6c40f47cde3f2c.svg",
+    "main.3d402174.css.map": "/landify-landing-page/static/css/main.3d402174.css.map",
+    "main.9733f09d.js.map": "/landify-landing-page/static/js/main.9733f09d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d402174.css",
+    "static/js/main.9733f09d.js"
+  ]
+}
