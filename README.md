@@ -1,6 +1,10 @@
+# Landify Landing Page
+
+Esse foi um projeto que criei utilizando uma sample page do UI kit da Landify no Figma. Foram utilizados nesse projeto JavaScript e o framework ReactJS, e CSS.\
+Acesse o link para visualizar a landing page: https://willperes.github.io/landify-landing-page/
+
 # Getting Started with Create React App
 
-Live page: https://willperes.github.io/landify-landing-page/
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
