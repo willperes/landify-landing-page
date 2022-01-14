@@ -3,6 +3,10 @@
 Esse foi um projeto que criei utilizando uma sample page do UI kit da Landify no Figma. Foram utilizados nesse projeto JavaScript e o framework ReactJS, e CSS.\
 Acesse o link para visualizar a landing page: https://willperes.github.io/landify-landing-page/
 
+##
+
+A landing page ainda não está responsiva para dispositivos móveis, mas isso está em desenvolvimento e logo atualizarei este repositório.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
